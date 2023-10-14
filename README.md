@@ -1,4 +1,4 @@
-# InstaBrute
+# Instagram-Bruteforcer
 <h3>Instagram bruteforce coded in Python</h3>
 <h3>for educational use and learning</h3>
 <hr>
