@@ -56,3 +56,5 @@ if args.wordlist and args.username:
 
 	if __name__ == "__main__":
 		start_thread()
+else:
+    parser.print_help()
